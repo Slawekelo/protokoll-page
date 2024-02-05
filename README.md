@@ -25,9 +25,7 @@
     li {
       margin-bottom: 5px;
     }
-    .intro th {
-      width: 20%;
-    }
+    .intro th,
     .top-heading th {
       width: 20%;
     }
@@ -71,7 +69,7 @@
   </tr>
   <tr>
     <th>Aufgabe</th>
-    <td>PDF-Liste mit den Gästen erstellen, Einladungen schreiben.<br>Termin: Bis KW 15, ab KW 16 Besprechung.</td>
+    <td>Iwetta erstellt PDF-Liste mit den Gästen, Einladungen schreiben.<br>Termin: Bis KW 15, ab KW 16 Besprechung.</td>
   </tr>
 </table>
 
@@ -111,8 +109,11 @@
     <th>Information</th>
     <td>Wenn viele ältere Personen anwesend sind, passt ein DJ nicht.<br>
       Alina schlägt beim Essen instrumentale Musik vor.<br>
-      Sławek schlägt Jazzband vor, und sagt um DJ mit Die Nahme Tomas kann nicht gut zu klingen.<br>
-      Aufgabe: Alina findet Jazzband bis KW15.</td>
+      Sławek schlägt Jazzband vor und sagt, um DJ mit Die Nahme Tomas kann nicht gut zu klingen.</td>
+  </tr>
+  <tr>
+    <th>Aufgabe</th>
+    <td>Alina findet Jazzband bis KW 15.</td>
   </tr>
 </table>
 
@@ -125,8 +126,11 @@
   <tr>
     <th>Information</th>
     <td>Sławek sagt, um wir zum unseren Kunden die Aufforderungen per Post zu schicken. Denen 1,5 Monate vor Schicken.<br>
-      Wir sollen auch sugerirren, dass Ihre Ankunft könnte unsere Zusammenarbeit in Zukunft verbessern.<br>
-      Sławek schickt die Aufforderungen bis ende KW 12.</td>
+      Wir sollen auch sugerirren, dass Ihre Ankunft könnte unsere Zusammenarbeit in Zukunft verbessern.</td>
+  </tr>
+  <tr>
+    <th>Aufgabe</th>
+    <td>Sławek schickt die Aufforderungen bis ende KW 12.</td>
   </tr>
 </table>
 
